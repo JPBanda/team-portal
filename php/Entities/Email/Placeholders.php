@@ -18,4 +18,5 @@ class Placeholder
     public const ZAALWACHTERS = "{{zaalwachters}}";
     public const BARLEDEN = "{{barleden}}";
     public const ZAALWACHTTYPE = "{{zaalwachttype}}";
+    public const BHVers = "{{BHVers}}";
 }
