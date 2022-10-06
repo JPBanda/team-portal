@@ -3,7 +3,7 @@
 namespace TeamPortal\Entities;
 
 use TeamPortal\Common\DateFunctions;
-use TeamPortal\Common\Utilities;
+use TeamPortal\Common\Utilities ;
 
 class Scheidsrechtersmail extends Email
 {
